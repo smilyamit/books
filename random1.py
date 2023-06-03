@@ -1,5 +1,6 @@
 '''This is just for testing purposes'''
-#prime number program
+
+#Make an efficient prime number program
 import math
 def is_prime(num):
     if num < 2:
