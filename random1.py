@@ -1,4 +1,6 @@
 '''This is just for testing purposes'''
+#program to check prime number
+
 def is_prime(num):
     if num < 2:
         return False
